@@ -1,0 +1,4 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Mon May 11 22:06:30 COT 2020
+da39a3ee5e6b4b0d3255bfef95601890afd80709@myproxy.host.net\:80>default-http\://repo.maven.apache.org/maven2/.lastUpdated=1589252790165
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact com.google.guava\:guava\:pom\:21.0 from/to central (http\://repo.maven.apache.org/maven2)\: myproxy.host.net

@@ -1,0 +1,5 @@
+#NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
+#Wed Apr 29 11:28:17 COT 2020
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1582432204913
+https\://repo.maven.apache.org/maven2/.lastUpdated=1588177697307
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.codehaus.mojo\:exec-maven-plugin\:pom\:1.2.1 from/to central (http\://repo.maven.apache.org/maven2)\: Failed to transfer file\: http\://repo.maven.apache.org/maven2/org/codehaus/mojo/exec-maven-plugin/1.2.1/exec-maven-plugin-1.2.1.pom. Return code is\: 501 , ReasonPhrase\:HTTPS Required.

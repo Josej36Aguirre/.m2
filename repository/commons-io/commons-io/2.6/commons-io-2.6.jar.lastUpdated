@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sun Dec 27 14:31:46 COT 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1609097506585
+da39a3ee5e6b4b0d3255bfef95601890afd80709@myproxy.host.net\:80>default-http\://repo.maven.apache.org/maven2/.lastUpdated=1591558560515
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact commons-io\:commons-io\:jar\:2.6 from/to central (http\://repo.maven.apache.org/maven2)\: myproxy.host.net

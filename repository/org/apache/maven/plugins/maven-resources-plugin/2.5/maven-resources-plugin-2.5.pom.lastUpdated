@@ -1,0 +1,5 @@
+#NOTE: This is an internal implementation file, its format can be changed without prior notice.
+#Thu Mar 11 17:09:00 COT 2021
+default-http\://repo.maven.apache.org/maven2/.lastUpdated=1615500540110
+da39a3ee5e6b4b0d3255bfef95601890afd80709@myproxy.host.net\:80>default-http\://repo.maven.apache.org/maven2/.lastUpdated=1591319235039
+http\://repo.maven.apache.org/maven2/.error=Could not transfer artifact org.apache.maven.plugins\:maven-resources-plugin\:pom\:2.5 from/to central (http\://repo.maven.apache.org/maven2)\: Failed to transfer file\: http\://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-resources-plugin/2.5/maven-resources-plugin-2.5.pom. Return code is\: 501 , ReasonPhrase\:HTTPS Required.
